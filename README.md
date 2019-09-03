@@ -1,5 +1,6 @@
 # Versioning Library for Go
 [![Build Status](https://travis-ci.org/hashicorp/go-version.svg?branch=master)](https://travis-ci.org/hashicorp/go-version)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flolopedigo%2Fgo-version.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flolopedigo%2Fgo-version?ref=badge_shield)
 
 go-version is a library for parsing versions and version constraints,
 and verifying versions against a set of constraints. go-version
@@ -63,3 +64,7 @@ sort.Sort(version.Collection(versions))
 If you find an issue with this library, please report an issue. If you'd
 like, we welcome any contributions. Fork this library and submit a pull
 request.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flolopedigo%2Fgo-version.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flolopedigo%2Fgo-version?ref=badge_large)
